@@ -1,1 +1,2 @@
-https://github.com/wveka/wveka.github.io
+- https://github.com/wveka/wveka.github.io
+- https://github.com/wveka/progintro-hw0-wveka
